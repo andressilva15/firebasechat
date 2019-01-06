@@ -1,5 +1,10 @@
 # ChatconFirebase
 
+Programacion Avanzada Uader Fcyt
+
+Alumnos:
+Casanovas Leandro, Rivero Carla, Silva Raul
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
 ## Development server
